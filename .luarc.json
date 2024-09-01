@@ -1,0 +1,12 @@
+{
+    "lua.diagnostics.globals": [
+        "love"
+    ],
+    "diagnostics.globals": [
+        "love"
+    ],
+    "diagnostics.disable": [
+        "duplicate-set-field",
+        "different-requires"
+    ]
+}
